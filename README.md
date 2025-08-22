@@ -2,9 +2,6 @@
 
 Melodia é uma landing page moderna e elegante, desenvolvida para apresentar um player de música com visual envolvente e experiência otimizada para o usuário.
 
-[Clique Aqui](https://victordz-webdev.github.io/lp-melodia/) para ver o projeto no ar
-
-
 ## 🚀 Tecnologias Utilizadas
 
 - **HTML** — estrutura semântica e acessível da página.  
